@@ -1,0 +1,29 @@
+//metodos de array integradas en javascript
+//crear un array
+//filter
+//map
+//reduce
+//forEach
+//find
+//some
+//every
+//push
+//pop
+//shift
+//unshift
+//splice
+//slice
+//indexOf
+//includes
+//join
+//concat
+//sort
+//reverse
+//findIndex
+//toString
+//length
+//isArray
+//fill
+//flat
+//flatMap
+//from
